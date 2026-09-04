@@ -4,14 +4,22 @@
 
 ## Methodology
 
-Throughout Part 1:
+Throughout Part 1, every exercise is performed and compared in **two body positions**:
 
-**EXPLAIN → FEEL → SEE → MEASURE**
+- **NORMAL** — seated, upright position
+- **INVERTED** — head down in an aerial yoga hammock
+
+The objective is not to assume that inversion changes the result, but to **observe and compare what actually changes** in sensation, air movement and pressure.
+
+**EXPLAIN → FEEL → SEE → MEASURE → INVERT → REPEAT → COMPARE**
 
 - **Explain** — what the structure does
-- **OtoVent** — physical / tactile feedback
-- **UBA EQ Tool** — pressure feedback
-- **Repeat** — observe how changing the mechanism changes the result
+- **Feel** — perform the movement and identify the sensation
+- **OtoVent** — observe physical / tactile feedback
+- **UBA EQ Tool** — observe the pressure response
+- **Invert** — repeat the same exercise head-down in the hammock
+- **Repeat** — perform the same movement and protocol
+- **Compare** — identify differences in sensation, air movement and pressure response
 
 ---
 
