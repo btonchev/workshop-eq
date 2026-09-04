@@ -30,6 +30,8 @@ Throughout Part 1:
 
 ### The main players
 
+![The Airways](./the-airways.png)
+
 - **Lungs** — air reservoir
 - **Larynx** — volume / pressure control
 - **Glottis** — gate
