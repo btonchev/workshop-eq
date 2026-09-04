@@ -30,7 +30,8 @@ Throughout Part 1:
 
 ### The main players
 
-![The Airways](./the-airways.png)
+| ![The Airways](./the-airways.png) | ![The Lungs-Larinx Connection](./lugs-larynx.png) |
+|-|-|
 
 - **Lungs** — air reservoir
 - **Larynx** — volume / pressure control
