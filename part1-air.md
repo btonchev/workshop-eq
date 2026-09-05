@@ -70,7 +70,7 @@ Observe:
 
 ---
 
-# 2. WHERE IS THE AIR?
+## 2. WHERE IS THE AIR?
 
 **Duration:** 4 min
 
@@ -115,11 +115,11 @@ vs.
 
 ---
 
-# 3. LARYNX — THE VOLUME CONTROLLER
+## 3. LARYNX — VOLUME & PRESSURE CONTROL
 
 **Duration:** 6 min
 
-## Concept
+
 
 ### Larynx ≠ glottis
 
@@ -137,11 +137,95 @@ Practice:
 - slowly move the larynx up and down
 - hold different positions
 
+### OtoVent
+
+Repeat the slow larynx movements while observing the OtoVent response.
+
+Focus on the physical sensation rather than producing maximum pressure.
+
+### UBA EQ Tool
+
+Repeat the same movements and observe:
+
+- whether laryngeal movement produces a pressure response
+- when the pressure response occurs
+- whether the response is repeatable
+
+### Inverted
+
+Repeat the same exercise **head-down in the aerial yoga hammock**.
+
+Keep the movement slow and gentle.
+
+Focus on:
+
+- Can you still clearly feel the larynx moving?
+- Does the movement feel different?
+- Does the timing or coordination feel different?
+
+### Compare
+
+Compare **Normal vs. Inverted**:
+
+- **Sensation** — does the larynx feel different?
+- **OtoVent** — does the physical feedback change?
+- **UBA EQ Tool** — does the pressure response or curve change?
+- **Control** — can you reproduce the same movement with the same low effort?
+
+> **The goal is observation, not maximum pressure.**
+
 ### Exercise 2 — Larynx + closed airway
 
 Hold the breath.
 
 Practice controlled laryngeal movement without releasing air.
+
+Focus on:
+
+- keeping the airway closed
+- moving the larynx independently
+- feeling the change in the internal air space
+
+### OtoVent
+
+Repeat the exercise while observing the OtoVent response.
+
+Focus on whether laryngeal movement produces a change in pressure.
+
+### UBA EQ Tool
+
+Repeat the exercise and observe:
+
+**laryngeal movement → pressure response**
+
+Do not increase effort to obtain a larger pressure peak.
+
+### Inverted
+
+Repeat the same exercise **head-down in the aerial yoga hammock**.
+
+Keep the airway closed and the movement gentle.
+
+Focus on:
+
+- Can you maintain the same airway control?
+- Does the laryngeal movement feel different?
+- Does the internal pressure sensation change?
+- Does the movement require more or less effort?
+
+### Compare
+
+Compare **Normal vs. Inverted**:
+
+- **Airway control** — can you maintain the closed airway equally well?
+- **Sensation** — does the larynx feel different?
+- **OtoVent** — does the feedback change?
+- **UBA EQ Tool** — does the pressure curve change?
+- **Coordination** — can you reproduce the same movement?
+
+> **We are testing whether body position changes the sensation and pressure response of the same laryngeal movement.**
+
+---
 
 ### Goal
 
@@ -155,23 +239,13 @@ The goal is to learn:
 
 > I can change an internal air volume without simply releasing the air.
 
-### OtoVent
-
-Perform the same controlled movements while observing the OtoVent response.
-
-### UBA EQ Tool
-
-Repeat the exercise and observe:
-
-**laryngeal movement → pressure response**
-
 ---
 
-# 4. GLOTTIS — THE GATE
+## 4. GLOTTIS — THE GATE
 
 **Duration:** 4 min
 
-## Concept
+
 
 The glottis controls the connection between the lungs and the upper airway.
 
@@ -194,9 +268,9 @@ The glottis controls the connection between the lungs and the upper airway.
 
 ### Exercise
 
-Practice:
+Practice - Glottis awareness:
 
-**Breathe → Hold → Cough → Hold**
+**Breathe → Hold → Gentle release → Hold**
 
 Focus on feeling the difference between:
 
@@ -227,11 +301,9 @@ For techniques where we need to work with a limited air volume:
 
 ---
 
-# 5. JAW — CHANGE THE VOLUME
+## 5. JAW — CHANGE THE VOLUME
 
 **Duration:** 4 min
-
-## Concept
 
 The jaw changes the available space inside the oral cavity.
 
@@ -261,7 +333,7 @@ Repeat:
 
 **open → close → open → close**
 
-Observe whether the volume change produces a pressure response.
+Observe the jaw changes the volume of the oral space; the resulting pressure depends on the rest of the system.
 
 ### Key takeaway
 
@@ -269,11 +341,11 @@ Observe whether the volume change produces a pressure response.
 
 ---
 
-# 6. CHEEKS — RESERVOIR + COMPRESSION
+## 6. CHEEKS — RESERVOIR + COMPRESSION
 
 **Duration:** 4 min
 
-## Concept
+
 
 The cheeks can:
 
@@ -299,6 +371,14 @@ Practice:
 
 Observe the pressure curve.
 
+### Inverted
+
+Repeat the same cheek loading and compression without increasing effort.
+
+### Compare
+
+Does the air feel easier/harder to control?
+
 ### Key takeaway
 
 > The cheeks can act both as an air reservoir and as a mechanism for reducing air volume.
@@ -307,13 +387,13 @@ This will become particularly important when introducing **Mouthfill**.
 
 ---
 
-# 7. TONGUE — SEAL
+## 7. TONGUE — SEAL
 
 **Duration:** 6 min
 
-## Concept
 
-Do **not** start by defining the tongue simply as "the piston."
+
+Do **not** start by defining the tongue simply as "the piston." The tongue can create a seal and can also contribute to changing the volume of the isolated air space.
 
 First introduce its ability to create a **seal / lock**.
 
@@ -365,11 +445,9 @@ Observe:
 
 ---
 
-# 8. SOFT PALATE — WHERE DOES THE AIR GO?
+## 8. SOFT PALATE — AIRWAY ROUTING
 
 **Duration:** 4 min
-
-## Concept
 
 Creating pressure is only part of equalization.
 
@@ -385,7 +463,7 @@ vs.
 
 **A / K**
 
-Explore the difference between oral and nasal pathways.
+Explore how changing the configuration of the vocal tract changes the available air pathway.
 
 ### OtoVent
 
@@ -402,35 +480,35 @@ Perform several configurations and observe the pressure response.
 
 ---
 
-# 9. THE WORKING CHAMBER
+## 9. THE WORKING CHAMBER
 
 **Duration:** 5 min
 
-## Concept
+
 
 The **working chamber is not a separate anatomical cavity**.
 
-It is a **small, dynamically isolated volume of air** created by the position and seal of the tongue and surrounding structures.
+It is a **small, dynamically isolated volume of air** created by ??? the position ??? and seal of the tongue and surrounding structures.
 
 ### Basic model
 
-**RESERVOIR**
+RESERVOIR
 
 ↓
 
-**TONGUE SEAL**
+ISOLATION / SEAL
 
 ↓
 
-**SMALL WORKING AIR SPACE**
+SMALL WORKING AIR VOLUME
 
 ↓
 
-**VOLUME ↓**
+VOLUME ↓
 
 ↓
 
-**PRESSURE ↑**
+PRESSURE ↑
 
 ### OtoVent
 
@@ -463,17 +541,25 @@ Now combine the different mechanisms.
 
 **air → cheeks → compression → OtoVent**
 
+What changes is **volume**
+
 ## B — JAW + CHEEKS
 
 **air → jaw + cheeks → compression → OtoVent**
+
+What changes is **volume**
 
 ## C — TONGUE
 
 **air → tongue seal → compression → OtoVent**
 
+What changes is **seal + volume**
+
 ## D — LARYNX
 
 **air → laryngeal movement → pressure response**
+
+What changes is **volume / pressure configuration**
 
 Repeat the same experiments with the **UBA EQ Tool**.
 
@@ -488,7 +574,7 @@ The pressure may be similar in its effect, but the mechanism used to create it c
 
 ---
 
-# 11. REAL LIFE → EQ
+## 11. REAL LIFE → EQ
 
 **Duration:** 4 min
 
@@ -503,7 +589,7 @@ Connect familiar actions with the structures used in equalization.
 | Coughing | Glottis + pressure |
 | Breath hold | Glottis |
 | T / K | Tongue |
-| Gulping | Larynx |
+| Swallowing or gulping | Larynx |
 | Cheek-to-cheek air movement | Cheeks |
 
 Where appropriate, demonstrate each movement with:
