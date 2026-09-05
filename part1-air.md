@@ -41,12 +41,14 @@ The objective is not to assume that inversion changes the result, but to **obser
 | ![The Airways](./the-airways.png) | ![The Lungs-Larinx Connection](./lugs-larynx.png) |
 |-|-|
 
-- **Lungs** — air reservoir
+- **Lungs** — main air reservoir
 - **Larynx** — volume / pressure control
 - **Glottis** — gate
 - **Tongue** — seal / lock
+- **Oral cavity** — smaller, controllable air reservoir
 - **Jaw + cheeks** — volume and air management
 - **Soft palate** — pathway / direction
+
 
 ### OtoVent
 
@@ -70,48 +72,46 @@ Observe:
 
 ---
 
-## 2. WHERE IS THE AIR?
+## 2. REAL LIFE → EQ
 
 **Duration:** 4 min
 
-### Air pathway
+Connect familiar actions with the structures used in equalization.
 
-**LUNGS → LARYNX → ORAL CAVITY → NASAL CAVITY → EUSTACHIAN TUBES**
+| Everyday action | Main structures involved |
+|---|---|
+| **Yawning** | Jaw + soft palate |
+| **Puffing the cheeks** | Cheeks + tongue + glottis |
+| **Whistling** | Lips + tongue + cheeks |
+| **Swallowing** | Tongue + soft palate + larynx / glottis |
+| **Gulping** | Tongue + soft palate + larynx |
+| **Cheek-to-cheek air movement** | Cheeks + tongue |
+| **Sucking through a straw** | Lips + tongue + cheeks |
+| **Drinking through a straw** | Lips + tongue + cheeks |
+| **Blowing through a straw** | Lips + cheeks + tongue + glottis |
+| **Inflating a balloon** | Cheeks + lips + tongue + glottis |
+| **Holding air in the cheeks** | Cheeks + tongue + glottis |
+| **Spitting** | Tongue + cheeks + lips |
+| **Rinsing the mouth** | Cheeks + tongue + jaw |
+| **Gargling** | Soft palate + tongue + glottis |
+| **Sniffing** | Nasal cavity + soft palate |
+| **Blowing the nose** | Soft palate + oral pressure + glottis |
+| **Clearing the ears** | Jaw + tongue + soft palate |
+| **Making a tongue click** | Tongue + oral pressure |
+| **Saying “K”** | Tongue + soft palate |
+| **Saying “T”** | Tongue + palate |
+| **Saying “M”** | Lips + soft palate |
+| **Saying “A”** | Jaw + tongue + soft palate |
+| **Coughing** | Glottis + pressure |
+| **Sneezing** | Soft palate + glottis + pressure |
+| **Chewing** | Jaw + tongue + cheeks |
+| **Holding water in the mouth** | Tongue + cheeks + lips |
+| **Sucking a candy** | Tongue + cheeks + swallowing mechanism |
+| **Moving food around the mouth** | Tongue + cheeks + jaw |
 
-Introduce two different reservoirs:
+Where appropriate, demonstrate each movement with:
 
-### Lung reservoir
-
-A large source of air.
-
-### Oral reservoir
-
-A smaller volume of air that can be stored and manipulated in the mouth and cheeks.
-
-### OtoVent
-
-Experiment:
-
-**lungs → mouth → OtoVent**
-
-Then close the glottis and work only with the air already in the oral cavity.
-
-### Goal
-
-Feel the difference between:
-
-- working with a large lung reservoir
-- working with a limited oral reservoir
-
-### UBA EQ Tool
-
-Compare:
-
-**large air movement**
-
-vs.
-
-**small isolated air movement**
+**EXPLAIN → OtoVent → UBA EQ Tool**
 
 ---
 
@@ -850,28 +850,6 @@ Then:
 > **Did the sensation, air movement, pressure response or control change?**
 
 The purpose is not to produce more pressure, but to observe whether **body position changes how the same mechanism is performed and perceived**.
-
-## 11. REAL LIFE → EQ
-
-**Duration:** 4 min
-
-Connect familiar actions with the structures used in equalization.
-
-| Everyday action | Main structure / mechanism |
-|---|---|
-| Yawning | Jaw + soft palate |
-| Puffing cheeks | Cheeks |
-| Whistling | Lips + tongue + cheeks |
-| Swallowing | Tongue + soft palate + laryngeal/glottic protection |
-| Coughing | Glottis + pressure |
-| Breath hold | Glottis |
-| T / K | Tongue |
-| Swallowing or gulping | Larynx |
-| Cheek-to-cheek air movement | Cheeks |
-
-Where appropriate, demonstrate each movement with:
-
-**EXPLAIN → OtoVent → UBA EQ Tool**
 
 ---
 
