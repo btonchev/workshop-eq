@@ -531,31 +531,31 @@ This concept will become important later when introducing **Advanced Frenzel**.
 
 ---
 
-# 10. PUT THE SYSTEM TOGETHER
+## 10. PUT THE SYSTEM TOGETHER
 
 **Duration:** 5 min
 
 Now combine the different mechanisms.
 
-## A — CHEEKS
+### A — CHEEKS
 
 **air → cheeks → compression → OtoVent**
 
 What changes is **volume**
 
-## B — JAW + CHEEKS
+### B — JAW + CHEEKS
 
 **air → jaw + cheeks → compression → OtoVent**
 
 What changes is **volume**
 
-## C — TONGUE
+### C — TONGUE
 
 **air → tongue seal → compression → OtoVent**
 
 What changes is **seal + volume**
 
-## D — LARYNX
+### D — LARYNX
 
 **air → laryngeal movement → pressure response**
 
@@ -598,9 +598,9 @@ Where appropriate, demonstrate each movement with:
 
 ---
 
-# END OF PART 1
+## END OF PART 1
 
-## The six functions
+### The six functions
 
 At the end of Part 1, the students should be able to distinguish six different jobs:
 
@@ -615,7 +615,7 @@ At the end of Part 1, the students should be able to distinguish six different j
 
 ---
 
-## Final model
+### Final model
 
 **AIR**
 
@@ -649,7 +649,7 @@ At the end of Part 1, the students should be able to distinguish six different j
 
 ---
 
-# TRANSITION TO PART 2
+## TRANSITION TO PART 2
 
 ### PART 1
 
