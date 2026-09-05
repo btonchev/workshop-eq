@@ -334,7 +334,34 @@ Repeat:
 **open → close → open → close**
 
 Observe the jaw changes the volume of the oral space; the resulting pressure depends on the rest of the system.
+### Inverted
 
+Repeat the same exercise **head-down in the aerial yoga hammock**.
+
+Keep the movement slow and relaxed.
+
+With air in the mouth, repeat:
+
+**OPEN → CLOSE → OPEN → CLOSE**
+
+Focus on:
+
+- Does the jaw movement feel different?
+- Does the available oral space feel different?
+- Does the air feel easier or harder to control?
+- Does the movement require more or less effort?
+
+### Compare
+
+Compare **Normal vs. Inverted**:
+
+- **Sensation** — does the jaw feel different?
+- **Air space** — does the available oral volume feel different?
+- **OtoVent** — does the physical feedback change?
+- **UBA EQ Tool** — does the pressure response or curve change?
+- **Control** — can you reproduce the same movement with the same low effort?
+
+> **The goal is observation, not maximum pressure.**
 ### Key takeaway
 
 > Pressure can be created without performing a Frenzel.
@@ -439,6 +466,68 @@ Observe:
 - curve shape
 - repeatability
 
+### Inverted
+
+Repeat the same exercise **head-down in the aerial yoga hammock**.
+
+Keep the tongue movement precise and relaxed.
+
+Perform:
+
+**N → T → K**
+
+Then:
+
+**T → HOLD**
+
+**K → HOLD**
+
+Focus on:
+
+- Does the tongue contact with the palate feel different?
+- Is the seal easier or harder to perceive?
+- Does the isolated air volume feel different?
+- Does the movement require more or less effort?
+
+### OtoVent
+
+Repeat:
+
+**T → compression → OtoVent**
+
+Then:
+
+**K → compression → OtoVent**
+
+Observe whether the physical feedback changes compared with the normal position.
+
+### UBA EQ Tool
+
+Repeat:
+
+**T × 5**
+
+**K × 5**
+
+Compare the pressure response with the normal position.
+
+Observe:
+
+- pressure peak
+- curve shape
+- repeatability
+
+### Compare
+
+Compare **Normal vs. Inverted**:
+
+- **Sensation** — does the tongue contact with the palate feel different?
+- **Seal** — can you create the same clear seal?
+- **OtoVent** — does the physical feedback change?
+- **UBA EQ Tool** — does the pressure response or curve change?
+- **Control** — can you reproduce the same movement with the same low effort?
+
+> **The goal is not to produce maximum pressure. The goal is to observe whether body position changes the sensation and control of the tongue seal.**
 ### Key concept
 
 > The tongue can isolate a small working air volume.
@@ -472,6 +561,55 @@ Use the OtoVent to observe how different configurations affect air movement.
 ### UBA EQ Tool
 
 Perform several configurations and observe the pressure response.
+
+### Inverted
+
+Repeat the same exercise **head-down in the aerial yoga hammock**.
+
+Keep the same configurations and do not increase the effort.
+
+Compare:
+
+**M**
+
+vs.
+
+**A / K**
+
+Focus on:
+
+- Does the soft palate feel different?
+- Does the available air pathway feel different?
+- Is it easier or harder to perceive where the air is directed?
+- Does the configuration require more or less effort to maintain?
+
+### OtoVent
+
+Repeat the same configurations with the OtoVent.
+
+Observe whether the physical feedback changes compared with the normal position.
+
+### UBA EQ Tool
+
+Repeat the same configurations and compare the pressure response with the normal position.
+
+Observe:
+
+- pressure change
+- timing of the response
+- repeatability
+
+### Compare
+
+Compare **Normal vs. Inverted**:
+
+- **Sensation** — does the soft palate configuration feel different?
+- **Air pathway** — does the perceived direction of the air change?
+- **OtoVent** — does the physical feedback change?
+- **UBA EQ Tool** — does the pressure response or curve change?
+- **Control** — can you reproduce the same configuration with the same low effort?
+
+> **We are not looking for a predetermined result. We are observing whether body position changes the sensation and control of the upper airway.**
 
 ### Key takeaway
 
@@ -527,6 +665,52 @@ Observe:
 
 > How small an air volume can we control, and how repeatably can we create pressure from it?
 
+### Inverted
+
+Repeat the same exercise **head-down in the aerial yoga hammock**.
+
+Keep the movement small and controlled.
+
+Practice:
+
+**reservoir → tongue seal → compress → OtoVent**
+
+Focus on:
+
+- Can you still clearly isolate the working air volume?
+- Does the working chamber feel different?
+- Is it easier or harder to control the small air volume?
+- Does the compression require more or less effort?
+
+### OtoVent
+
+Repeat the same exercise with the OtoVent.
+
+Observe whether the physical feedback changes compared with the normal position.
+
+### UBA EQ Tool
+
+Repeat the same exercise and compare the pressure response with the normal position.
+
+Observe:
+
+- pressure peak
+- curve shape
+- repeatability
+- how easily pressure can be created from the small isolated volume
+
+### Compare
+
+Compare **Normal vs. Inverted**:
+
+- **Working chamber** — does the isolated air volume feel different?
+- **Sensation** — does the tongue seal feel different?
+- **OtoVent** — does the physical feedback change?
+- **UBA EQ Tool** — does the pressure response or curve change?
+- **Control** — can you create the same pressure with the same low effort?
+
+> **The goal is not to create more pressure. The goal is to observe whether body position changes the sensation and control of a small isolated air volume.**
+
 This concept will become important later when introducing **Advanced Frenzel**.
 
 ---
@@ -541,27 +725,36 @@ Now combine the different mechanisms.
 
 **air → cheeks → compression → OtoVent**
 
-What changes is **volume**
+What changes is **volume**.
 
 ### B — JAW + CHEEKS
 
 **air → jaw + cheeks → compression → OtoVent**
 
-What changes is **volume**
+What changes is **volume**.
 
 ### C — TONGUE
 
 **air → tongue seal → compression → OtoVent**
 
-What changes is **seal + volume**
+What changes is **seal + volume**.
 
 ### D — LARYNX
 
 **air → laryngeal movement → pressure response**
 
-What changes is **volume / pressure configuration**
+What changes is **volume / pressure configuration**.
 
-Repeat the same experiments with the **UBA EQ Tool**.
+### UBA EQ Tool — Normal
+
+Repeat the same four experiments with the **UBA EQ Tool**.
+
+Observe:
+
+- pressure response
+- curve shape
+- repeatability
+- effort required
 
 ### Question for the group
 
@@ -573,6 +766,90 @@ Repeat the same experiments with the **UBA EQ Tool**.
 The pressure may be similar in its effect, but the mechanism used to create it can be different.
 
 ---
+
+### Inverted
+
+Repeat the same four experiments **head-down in the aerial yoga hammock**.
+
+Keep the movements small, controlled and relaxed.
+
+### A — CHEEKS
+
+**air → cheeks → compression → OtoVent**
+
+Focus on:
+
+- Does the cheek compression feel different?
+- Is the air easier or harder to control?
+
+### B — JAW + CHEEKS
+
+**air → jaw + cheeks → compression → OtoVent**
+
+Focus on:
+
+- Does changing the jaw position feel different?
+- Does the available oral volume feel different?
+
+### C — TONGUE
+
+**air → tongue seal → compression → OtoVent**
+
+Focus on:
+
+- Is the tongue seal easier or harder to perceive?
+- Does the isolated air volume feel different?
+
+### D — LARYNX
+
+**air → laryngeal movement → pressure response**
+
+Focus on:
+
+- Does the laryngeal movement feel different?
+- Does the pressure response feel different?
+
+### OtoVent — Inverted
+
+Repeat the same four experiments with the **OtoVent**.
+
+Observe:
+
+- physical / tactile feedback
+- air movement
+- ease of control
+
+### UBA EQ Tool — Inverted
+
+Repeat the same four experiments with the **UBA EQ Tool**.
+
+Observe:
+
+- pressure response
+- curve shape
+- repeatability
+- effort required
+
+### Compare
+
+Compare **Normal vs. Inverted** across all four mechanisms:
+
+| Mechanism | What to compare |
+|---|---|
+| **Cheeks** | air storage, compression, control |
+| **Jaw + cheeks** | available oral volume, compression |
+| **Tongue** | seal, isolated air volume |
+| **Larynx** | movement, volume / pressure response |
+
+Ask the group:
+
+> **Did the mechanism change when we inverted?**
+
+Then:
+
+> **Did the sensation, air movement, pressure response or control change?**
+
+The purpose is not to produce more pressure, but to observe whether **body position changes how the same mechanism is performed and perceived**.
 
 ## 11. REAL LIFE → EQ
 
