@@ -78,36 +78,35 @@ Observe:
 
 Connect familiar actions with the structures used in equalization.
 
-| Everyday action | Main structures involved |
+| Ежедневно действие | Основно участие |
 |---|---|
-| **Yawning** | Jaw + soft palate |
-| **Puffing the cheeks** | Cheeks + tongue + glottis |
-| **Whistling** | Lips + tongue + cheeks |
-| **Swallowing** | Tongue + soft palate + larynx / glottis |
-| **Gulping** | Tongue + soft palate + larynx |
-| **Cheek-to-cheek air movement** | Cheeks + tongue |
-| **Sucking through a straw** | Lips + tongue + cheeks |
-| **Drinking through a straw** | Lips + tongue + cheeks |
-| **Blowing through a straw** | Lips + cheeks + tongue + glottis |
-| **Inflating a balloon** | Cheeks + lips + tongue + glottis |
-| **Holding air in the cheeks** | Cheeks + tongue + glottis |
-| **Spitting** | Tongue + cheeks + lips |
-| **Rinsing the mouth** | Cheeks + tongue + jaw |
-| **Gargling** | Soft palate + tongue + glottis |
-| **Sniffing** | Nasal cavity + soft palate |
-| **Blowing the nose** | Soft palate + oral pressure + glottis |
-| **Clearing the ears** | Jaw + tongue + soft palate |
-| **Making a tongue click** | Tongue + oral pressure |
-| **Saying “K”** | Tongue + soft palate |
-| **Saying “T”** | Tongue + palate |
-| **Saying “M”** | Lips + soft palate |
-| **Saying “A”** | Jaw + tongue + soft palate |
-| **Coughing** | Glottis + pressure |
-| **Sneezing** | Soft palate + glottis + pressure |
-| **Chewing** | Jaw + tongue + cheeks |
-| **Holding water in the mouth** | Tongue + cheeks + lips |
-| **Sucking a candy** | Tongue + cheeks + swallowing mechanism |
-| **Moving food around the mouth** | Tongue + cheeks + jaw |
+| **Прозяване** | Jaw + soft palate |
+| **Надути бузи** | Cheeks |
+| **Задържане на въздух в бузите** | Cheeks + tongue + glottis |
+| **Преместване на въздуха от едната буза в другата** | Cheeks + tongue |
+| **Свирене с уста** | Lips + tongue + cheeks |
+| **Пиене със сламка** | Lips + tongue + cheeks |
+| **Духане през сламка** | Lips + cheeks + tongue |
+| **Надуване на балон** | Cheeks + lips + tongue + glottis |
+| **Изплюване на вода** | Tongue + cheeks + lips |
+| **Правене на „пук“ с език** | Tongue + oral pressure |
+| **Казване на „К“** | Tongue + soft palate |
+| **Казване на „Т“** | Tongue + palate |
+| **Казване на „М“** | Lips + soft palate |
+| **Казване на „А“** | Jaw + tongue + soft palate |
+| **Преглъщане** | Tongue + soft palate + larynx / glottis |
+| **Гълтане на вода** | Tongue + soft palate + larynx / glottis |
+| **Кашляне** | Glottis + pressure |
+| **Кихане** | Soft palate + glottis + pressure |
+| **Подсмърчане** | Nasal cavity + soft palate |
+| **Гаргара** | Soft palate + tongue + glottis |
+| **Задържане на вода в устата** | Tongue + cheeks + lips |
+| **Изплакване на устата** | Cheeks + tongue + jaw |
+| **Дъвчене** | Jaw + tongue + cheeks |
+| **Смучене на бонбон** | Tongue + cheeks + lips |
+| **Смучене през сламка** | Lips + tongue + cheeks |
+| **Опит за изравняване на ушите** | Jaw + tongue + soft palate |
+| **Tongue click** | Tongue + seal + oral pressure |
 
 Where appropriate, demonstrate each movement with:
 
