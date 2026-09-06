@@ -7,7 +7,7 @@ This practice comes **after Part 1 and before Part 2**. The goal is not
 depth or performance. The goal is to make the mechanics learned on land
 feel natural and repeatable in the water.
 
-------------------------------------------------------------------------
+---
 
 ## 1. Practice Principles
 
@@ -20,83 +20,271 @@ feel natural and repeatable in the water.
 -   **One variable at a time.** First establish the movement, then
     gradually introduce depth.
 
-------------------------------------------------------------------------
+---
 
-## 2. Dry-to-Water Transfer
+## 2. Surface Water Familiarisation
 
-Before entering the water, briefly reproduce the mechanism from Part 1:
+### 1. HOLD / ISOLATE — GLOTTIS
 
-1.  Take a normal breath.
-2.  Close the glottis.
-3.  Establish the tongue position used for Frenzel.
-4.  Create the pressure pulse with the tongue.
-5.  Feel the pressure movement without using the chest.
+**Goal:** feel and maintain a closed glottis in the inverted position.
 
-Then repeat the same sequence in very shallow water.
+### Bat Position
 
-**Goal:** the movement should feel essentially the same on land and in
-the water.
+**Total breath-hold: 24–30 seconds.**
 
-------------------------------------------------------------------------
+1. Start **on your back** at the surface.
+2. Take a comfortable breath.
+3. Equalize the mask.
+4. Transition into the **bat position**.
+5. Keep the glottis closed.
+6. Keep the air in the lungs.
+7. Hold the position and stay relaxed.
+8. Make a small movement with the mouth or tongue while keeping the glottis closed.
+9. Notice whether the glottis remains closed.
 
-## 3. Surface Water Familiarisation
+Focus on:
 
-### Exercise A --- Face in the Water
+- Can you feel the glottis staying closed?
+- Can you keep the air in the lungs without releasing it?
+- Can you move the tongue or mouth while keeping the glottis closed?
+- Can you remain relaxed while maintaining the closure?
 
-At the surface:
+> **At this stage, we are not equalizing. The goal is simply to feel and maintain a closed glottis.**
 
--   Relax the face and jaw.
--   Put the face in the water.
--   Breathe normally through the snorkel if one is used.
--   Practise the tongue movement without trying to gain depth.
--   Notice whether the movement changes when the face is submerged.
+### 2. CHANGE VOLUME — LARYNX + JAW
 
-**Focus:** remove unnecessary tension when entering the water.
+**Goal:** feel how larynx and jaw movement changes the available volume of air.
 
-### Exercise B --- Gentle Duck Dive
+#### Water Practice — Normal
 
-Perform a relaxed duck dive to very shallow depth.
+**Total breath-hold: 24–30 seconds.**
 
-On descent:
+1. Start **on your back** at the surface.
+2. Take a comfortable breath.
+3. Equalize the mask.
+4. Transition into the **bat position**.
+5. Keep the glottis closed.
+6. Keep a small amount of air in the mouth.
+7. Slowly move the larynx and jaw.
 
--   Begin equalization immediately.
--   Equalize again before discomfort appears.
--   Keep the body streamlined.
--   Avoid large head movements.
--   Return to the surface if equalization becomes difficult.
+Practice:
 
-**Goal:** establish the habit:
+**LARYNX → JAW → LARYNX → JAW**
 
-> **Pressure changes → equalize early → continue only while it remains
-> easy.**
+Focus on:
 
-------------------------------------------------------------------------
+- Can you feel the change in available volume?
+- Can you keep the glottis closed?
+- Does the air in the mouth feel different as the larynx moves?
+- Does opening and closing the jaw change the available space?
+- Can you make the movements slowly and with minimal effort?
 
-## 4. Shallow Descent Practice
+> **At this stage, we are not equalizing. The goal is to feel changes in volume and maintain control of the air.**
 
-Choose a depth where equalization is completely comfortable.
+#### Water Practice — FRC
 
-Perform several relaxed descents.
+Repeat the same exercise from **FRC** to observe the same movements while experiencing the urge to breathe.
 
-For each descent:
+Focus on the same larynx and jaw movements, but now observe the sensations as the urge to breathe develops.
 
-1.  Start calmly.
-2.  Begin equalization early.
-3.  Repeat at short intervals.
-4.  Keep the jaw, neck and shoulders relaxed.
-5.  Notice the point at which equalization becomes less effortless.
-6.  End the descent before technique deteriorates.
+Focus on:
 
-  Observation                     What it may indicate
-  ------------------------------- -----------------------------------
-  Equalization is effortless      Good pressure control
-  Equalization requires effort    Technique is becoming inefficient
-  Head movement is needed         Position may be interfering
-  Jaw/neck becomes tense          Excess effort
-  Repeated failed equalizations   Stop and reassess
-  Pain or sharp pressure          Stop the dive
+- When do the first urges to breathe appear?
+- Do the sensations change as the urge to breathe increases?
+- Does the larynx feel different?
+- Does the jaw feel different?
+- Can you maintain the same relaxed movements despite the urge to breathe?
 
-------------------------------------------------------------------------
+> **The goal is not to extend the breath-hold. The goal is to observe how the sensations change as the urge to breathe develops.**
+
+### 3. STORE + COMPRESS — CHEEKS
+
+**Goal:** feel the cheeks as a small, controllable reservoir of air.
+
+#### Water Practice — Normal
+
+**Total breath-hold: 24–30 seconds.**
+
+1. Start **on your back** at the surface.
+2. Take a comfortable breath.
+3. Equalize the mask.
+4. Transition into the **bat position**.
+5. Keep the glottis closed.
+6. Bring a small amount of air into the mouth.
+7. Let the cheeks hold the air.
+8. Gently compress the cheeks.
+9. Release the compression and repeat.
+
+Practice:
+
+**STORE → COMPRESS → RELEASE → STORE → COMPRESS**
+
+Focus on:
+
+- Can you keep the air in the cheeks?
+- Can you compress the air without using the lungs?
+- Can you feel the pressure building in the mouth?
+- Can you control the amount of compression?
+- Can you keep the movement relaxed?
+
+> **At this stage, we are not equalizing. The goal is to feel the cheeks storing and compressing a small volume of air.**
+
+#### Water Practice — FRC
+
+Repeat the same exercise from **FRC**.
+
+Observe how the sensations change as the urge to breathe develops.
+
+Focus on:
+
+- Does the urge to breathe affect the cheek movement?
+- Can you still isolate and compress the air in the cheeks?
+- Does the pressure sensation feel different?
+- Can you keep the movement relaxed?
+
+> **The goal is not to extend the breath-hold. The goal is to observe the effect of the urge to breathe on the control of the oral air.**
+
+---
+
+## 3. Shallow Descent Practice
+
+Place the **bottom plate at 2.5 m**.
+
+The goal of this section is **not equalization**.
+
+We now leave the **bat position** and reproduce the relaxed body position used during an actual descent:
+**vertical → streamlined → relaxed → suspended in the water.**
+
+At this depth, everyone should be able to reach the bottom plate **without needing to equalize**.
+
+
+### 4. SEAL + COMPRESS — TONGUE
+
+**Goal:** feel how the tongue creates a seal and allows a small volume of air to be compressed.
+
+**Total breath-hold: 40–60 seconds.**
+
+1. Start **face down** at the surface with a **snorkel**.
+2. Take a comfortable breath.
+3. Equalize the mask.
+4. Perform a **preliminary equalization**.
+5. Remove the snorkel and descend to the **bottom plate**.
+6. Hold the bottom plate with one hand.
+7. With the other hand, hold the nose closed.
+8. Keep the glottis closed.
+9. Bring a small amount of air into the mouth.
+10. Create the tongue seal.
+11. Gently compress the isolated air.
+12. Perform a gentle equalization.
+
+Practice:
+
+**AIR → SEAL → COMPRESS → EQ**
+
+Focus on:
+
+- Can you create a clear tongue seal?
+- Can you keep the air isolated?
+- Can you compress the air without using the lungs?
+- Can you feel the pressure building behind the seal?
+- Can you equalize with a small, controlled movement?
+- Can you keep the movement relaxed?
+
+> **The goal is not maximum pressure. The goal is to feel the tongue seal, compress a small volume of air and use it for equalization.**
+
+### 5. COMBINE — WORKING CHAMBER
+
+**Goal:** combine the mechanisms into a small, controlled working chamber and use it for equalization.
+
+**Total breath-hold: 40–60 seconds.**
+
+1. Start **face down** at the surface with a **snorkel**.
+2. Take a comfortable breath.
+3. Equalize the mask.
+4. Perform a **preliminary equalization**.
+5. Remove the snorkel and descend to the **bottom plate**.
+6. Hold the bottom plate with one hand.
+7. With the other hand, hold the nose closed.
+8. Keep the glottis closed.
+9. Bring a small amount of air into the mouth.
+10. Create the tongue seal.
+11. Isolate a small working volume.
+12. Compress the working volume.
+13. Perform a gentle equalization.
+
+Practice:
+
+**AIR → GLOTTIS → ORAL RESERVOIR → TONGUE SEAL → WORKING CHAMBER → COMPRESS → EQ**
+
+Focus on:
+
+- Can you isolate a small working volume?
+- Can you maintain the tongue seal?
+- Can you compress the working chamber with minimal movement?
+- Can you equalize without using additional air from the lungs?
+- Can you repeat the sequence smoothly and with low effort?
+
+> **The goal is to combine the individual mechanisms into one coordinated equalization.**
+
+---
+
+## 4. DEEPER DESCENT PRACTICE
+
+The first exercises were performed at a comfortable depth, where everyone could focus on the individual mechanisms with minimal pressure.
+
+Now increase the depth gradually and observe how the same equalization mechanism performs as pressure increases.
+
+Choose a depth where **everyone can reach the bottom plate comfortably, without discomfort or force.**
+
+The depth should be:
+
+- deep enough for the increase in pressure to be clearly noticeable
+- comfortable for everyone in the group
+- within each participant's current equalization ability
+- shallow enough that no deep-equalization technique is required
+
+> **We are increasing depth to increase the pressure challenge — not to train deep-equalization techniques.**
+
+### 6 REPEATED EQUALIZATION
+
+**Goal:** use the same equalization mechanism repeatedly as pressure increases.
+
+### Water Practice
+
+**Total breath-hold: 40–60 seconds.**
+
+1. Start **face down** at the surface with a **snorkel**.
+2. Take a comfortable breath.
+3. Equalize the mask.
+4. Perform a **preliminary equalization**.
+5. Remove the snorkel and start descending by pulling on the rope.
+6. Continue descending while holding the rope with one hand.
+7. With the other hand, hold the nose closed.
+8. Keep the glottis closed.
+9. Use a small amount of air from the oral reservoir.
+10. Create the tongue seal.
+11. Isolate the working chamber.
+12. Compress the working chamber.
+13. Perform a gentle equalization.
+14. Repeat the sequence as needed while remaining relaxed until you reach the **bottom plate**.
+.
+
+Practice:
+
+**ORAL RESERVOIR → TONGUE SEAL → WORKING CHAMBER → COMPRESS → EQ**
+
+Focus on:
+
+- Can you equalize before pressure becomes uncomfortable?
+- Does the increased pressure change the sensation of the working chamber?
+- Can you maintain the same small and precise movement?
+- Can you repeat the mechanism without increasing effort?
+- Does the mechanism remain relaxed as the pressure increases?
+
+> **The goal is to use the same mechanism under greater pressure — not to force a deeper equalization.**
+
+---
+
 
 ## 5. Equalization Frequency Drill
 
@@ -113,7 +301,7 @@ During a shallow descent:
 **Success criterion:** equalization becomes a proactive rhythm rather
 than a reaction to discomfort.
 
-------------------------------------------------------------------------
+---
 
 ## 6. No-Force Drill
 
@@ -134,7 +322,7 @@ If equalization does not happen easily:
 The objective is to learn that increasing effort is not the solution to
 increasing pressure.
 
-------------------------------------------------------------------------
+---
 
 ## 7. Position and Head Control
 
@@ -161,67 +349,45 @@ The buddy watches for:
 
 Feedback should be given **after the dive**, not during it.
 
-------------------------------------------------------------------------
+---
 
-## 8. Relaxation Under Pressure
-
-Perform a series of very shallow descents.
-
-Before each descent:
-
--   relax the shoulders;
--   release unnecessary jaw tension;
--   take a normal breath;
--   establish the tongue position;
--   start calmly.
-
-During the descent ask:
-
-> **Can I make the equalization smaller and easier?**
-
-If the answer becomes no, stop.
-
-------------------------------------------------------------------------
-
-## 9. Short Repeated Dives
+## 8. Short Repeated Dives
 
 Instead of one long practice, perform several short dives at the same
 comfortable depth.
 
-  Dive   Objective
-  ------ -------------------------------
-  1      Establish relaxed descent
-  2      Equalize earlier
-  3      Reduce force
-  4      Maintain stable head position
-  5      Repeat the easiest version
-
+  | Dive | Objective |
+  |---|---|
+  | 1 | Establish relaxed descent |
+  | 2 | Equalize earlier |
+  | 3 | Reduce force |
+  | 4 | Maintain stable head position |
+  | 5 | Repeat the easiest version |
 Rest normally between dives.
 
 The final dive should feel **easier**, not harder, than the first.
 
-------------------------------------------------------------------------
+---
 
-## 10. Buddy Checklist
-
-  Check                                               Yes / No
-  --------------------------------------------------- ----------
-  Diver starts equalization early                     
-  Equalization is frequent                            
-  No obvious straining                                
-  Jaw remains relaxed                                 
-  Neck remains relaxed                                
-  Head remains relatively stable                      
-  Body remains streamlined                            
-  Diver stops before discomfort becomes significant   
-  Diver returns to the surface calmly                 
+## 9. Buddy Checklist
+| Check | Yes / No |
+|---|---|
+| Diver starts equalization early | |
+| Equalization is frequent | |
+| No obvious straining | |
+| Jaw remains relaxed | |
+| Neck remains relaxed | |
+| Head remains relatively stable | |
+| Body remains streamlined | |
+| Diver stops before discomfort becomes significant | |
+| Diver returns to the surface calmly | |
 
 After the session, discuss only **one or two observations** that are
 most useful for the next practice.
 
 ------------------------------------------------------------------------
 
-## 11. Common Problems
+## 10. Common Problems
 
 ### "I can do it on land but not in the water."
 
@@ -251,57 +417,24 @@ an appropriate medical professional.
 
 ------------------------------------------------------------------------
 
-## 12. Daily Actions
+## 11. Daily Actions
 
-  -----------------------------------------------------------------------
-  Action                              Practice
-  ----------------------------------- -----------------------------------
-  **Tongue awareness**                Briefly reproduce the Frenzel
-                                      tongue position without pressure.
+| Action | Practice |
+|---|---|
+| **Tongue awareness** | Briefly reproduce the Frenzel tongue position without pressure. |
+| **Glottis awareness** | Practise recognising the closed-glottis position. |
+| **Small pressure pulse** | Produce a gentle, controlled pressure pulse. |
+| **Relaxed jaw** | Check that the jaw is not unnecessarily clenched. |
+| **Neck relaxation** | Notice and release tension in the neck. |
+| **Early equalization habit** | Visualise starting equalization before discomfort appears. |
+| **No-force rule** | Practise the decision: if it does not equalize easily, stop and reset. |
+| **Movement awareness** | Notice whether tongue, jaw and neck are doing separate jobs. |
+| **Visual rehearsal** | Mentally rehearse a calm shallow descent with frequent equalization. |
 
-  **Glottis awareness**               Practise recognising the
-                                      closed-glottis position.
 
-  **Small pressure pulse**            Produce a gentle, controlled
-                                      pressure pulse.
+----
 
-  **Relaxed jaw**                     Check that the jaw is not
-                                      unnecessarily clenched.
-
-  **Neck relaxation**                 Notice and release tension in the
-                                      neck.
-
-  **Early equalization habit**        Visualise starting equalization
-                                      before discomfort appears.
-
-  **No-force rule**                   Practise the decision: if it does
-                                      not equalize easily, stop and
-                                      reset.
-
-  **Movement awareness**              Notice whether tongue, jaw and neck
-                                      are doing separate jobs.
-
-  **Visual rehearsal**                Mentally rehearse a calm shallow
-                                      descent with frequent equalization.
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-## 13. Session Structure
-
-1.  **Dry practice** --- reproduce the Part 1 mechanism.
-2.  **Surface familiarisation** --- face in the water, relaxed.
-3.  **Shallow descents** --- equalize early.
-4.  **Frequency drill** --- small, frequent equalizations.
-5.  **No-force drill** --- minimise effort.
-6.  **Position drill** --- observe head and body position.
-7.  **Repeated easy dives** --- reinforce the easiest technique.
-8.  **Buddy feedback** --- one or two useful observations.
-9.  **Stop while technique is still good.**
-
-------------------------------------------------------------------------
-
-## 14. What This Practice Should Achieve
+## 12. What This Practice Should Achieve
 
 The diver should begin to experience Frenzel not as a sequence of
 separate actions, but as a **simple pressure-management response**:
