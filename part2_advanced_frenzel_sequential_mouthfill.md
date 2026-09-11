@@ -20,7 +20,7 @@ Adam Stern used MRI video to observe what was actually moving during Frenzel, re
 
 The experiments led him to place particular emphasis on **larynx movement and control**, and to propose alternative ways of teaching Frenzel and Mouthfill. Stern also explicitly describes the MRI observations as preliminary findings from experiments on his own anatomy, rather than definitive research applicable to every diver.
 
-[![Equalising Inside ab MRI Machine](https://www.youtube.com/watch?v=d4MhX4v5xxs)](https://www.youtube.com/watch?v=d4MhX4v5xxs)
+[![Equalising Inside ab MRI Machine](./mri-video.png)](https://www.youtube.com/watch?v=d4MhX4v5xxs)
 
 ---
 
