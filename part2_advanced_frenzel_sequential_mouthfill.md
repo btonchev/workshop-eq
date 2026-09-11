@@ -652,114 +652,7 @@ The diver should be able to describe the difference before performing the moveme
 
 ---
 
-## 15. Water Application
-
-The purpose of this session is to transfer the three advanced air-management strategies from dry practice into the water.
-
-The objective is **not to increase depth**.
-
-The objective is to recognise the same mechanisms under real pressure while maintaining a relaxed descent.
-
-> **Do not introduce a new technique and increase depth at the same time.**
-
-### Round 1 - Advanced Frenzel
-
-Choose a depth that is comfortable with your current equalization ability.
-
-Start with the normal Frenzel mechanism.
-
-As the available oral air volume becomes smaller, practise a **small reverse pack** to replenish the working volume.
-
-**REVERSE PACK → WORKING VOLUME → FRENZEL → REPEAT**
-
-Focus on:
-
-- small reverse packs;
-- controlled larynx movement;
-- maintaining a relaxed mouth and neck;
-- equalizing before discomfort;
-- stopping if the reverse pack or equalization becomes forced.
-
----
-
-### Round 2 Sequential Frenzel
-
-Choose a comfortable depth where the pressure change is clearly noticeable but the technique remains easy.
-
-Establish an **oral reservoir** before the descent.
-
-During the descent:
-
-**ORAL RESERVOIR → WORKING CHAMBER → COMPRESS → EQ → RESET**
-
-Repeat the transfer as required.
-
-Focus on:
-
-- maintaining the reservoir;
-- transferring only a small amount of air;
-- keeping the working chamber separate from the reservoir;
-- using the minimum movement necessary;
-- maintaining a relaxed head and neck position.
-
-> **The reservoir is not the working chamber. The exercise is the controlled transfer between them.**
-
----
-
-### Round 3 Mouthfill
-
-Choose a depth that allows the mouthfill to be established and maintained comfortably.
-
-Establish the mouthfill before the pressure becomes demanding.
-
-During the descent:
-
-**CHARGE → MAINTAIN → MOVE AIR → FRENZEL → REPEAT**
-
-Focus on:
-
-- establishing the mouthfill without excessive pressure;
-- maintaining the reservoir;
-- moving only the amount of air required for each equalization;
-- keeping the tongue, jaw and neck relaxed;
-- recognising when the mouthfill is becoming difficult to maintain.
-
----
-
-### Technique Comparison
-
-Perform the three techniques on separate short dives.
-
-Do not try to switch techniques during the same descent.
-
-After each dive, record:
-
-| Observation | Advanced Frenzel | Sequential Frenzel | Mouthfill |
-|---|---|---|---|
-| Where did the working air come from? | | | |
-| Was a separate reservoir maintained? | | | |
-| How was the working volume replenished? | | | |
-| How much air was transferred? | | | |
-| How easy was the equalization? | | | |
-| Where did unnecessary tension appear? | | | |
-
-### Progression
-
-Progress only when the mechanism is comfortable and repeatable.
-
-**DRY CONTROL → SHALLOW WATER → REPEATABILITY → GREATER PRESSURE → DEPTH**
-
-Do not use depth to compensate for poor technique.
-
-If equalization becomes difficult:
-
-**STOP → RELAX → RETURN SHALLOWER → RESET**
-
-> **Depth is the consequence of control, not the objective of the exercise.**
-
----
-
-## 16. Common Problems
+## 15. Common Problems
 
 ### “My reverse pack is too large.”
 
@@ -793,7 +686,7 @@ Return to a shallower, comfortable depth and reassess the mechanism.
 
 ---
 
-## 17. What This Practice Should Achieve
+## 16. What This Practice Should Achieve
 
 The diver should finish Part 2 with a broader and more precise equalization toolkit.
 
