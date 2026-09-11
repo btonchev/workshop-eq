@@ -1,4 +1,7 @@
 # Part 2 — Water Practice
+
+**Duration:** ~60–75 min
+
 ## Advanced Frenzel, Sequential Frenzel & Mouthfill
 
 > **Purpose:** Transfer the advanced equalization mechanisms developed in Part 2 Dry into real water conditions.

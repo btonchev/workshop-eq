@@ -1,5 +1,7 @@
 # Water Practice --- Air → Equalization in the Water
 
+**Duration:** ~50–60 min
+
 > **Purpose:** Bridge Part 1 (air, pressure and equalization mechanics)
 > to actual practice in the water.
 

@@ -1,5 +1,7 @@
 # Part 2 — Advanced Frenzel, Sequential Frenzel & Mouthfill
 
+**Duration:** ~75–90 min
+
 > **Purpose:** Build on Part 1 by developing advanced control of the oral air volume, larynx, tongue and cheeks, then apply that control to Advanced Frenzel, Sequential Frenzel and Mouthfill.
 
 Part 1 established the basic equalization system:
