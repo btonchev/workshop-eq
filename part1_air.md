@@ -119,8 +119,6 @@ Where appropriate, demonstrate each movement with:
 
 **Duration:** 6 min
 
-
-
 ### Larynx ≠ glottis
 
 - **Larynx** = anatomical structure
@@ -151,29 +149,6 @@ Repeat the same movements and observe:
 - when the pressure response occurs
 - whether the response is repeatable
 
-### Inverted
-
-Repeat the same exercise **head-down in the aerial yoga hammock**.
-
-Keep the movement slow and gentle.
-
-Focus on:
-
-- Can you still clearly feel the larynx moving?
-- Does the movement feel different?
-- Does the timing or coordination feel different?
-
-### Compare
-
-Compare **Normal vs. Inverted**:
-
-- **Sensation** — does the larynx feel different?
-- **OtoVent** — does the physical feedback change?
-- **UBA EQ Tool** — does the pressure response or curve change?
-- **Control** — can you reproduce the same movement with the same low effort?
-
-> **The goal is observation, not maximum pressure.**
-
 ### Exercise 2 — Larynx + closed airway
 
 Hold the breath.
@@ -200,31 +175,6 @@ Repeat the exercise and observe:
 
 Do not increase effort to obtain a larger pressure peak.
 
-### Inverted
-
-Repeat the same exercise **head-down in the aerial yoga hammock**.
-
-Keep the airway closed and the movement gentle.
-
-Focus on:
-
-- Can you maintain the same airway control?
-- Does the laryngeal movement feel different?
-- Does the internal pressure sensation change?
-- Does the movement require more or less effort?
-
-### Compare
-
-Compare **Normal vs. Inverted**:
-
-- **Airway control** — can you maintain the closed airway equally well?
-- **Sensation** — does the larynx feel different?
-- **OtoVent** — does the feedback change?
-- **UBA EQ Tool** — does the pressure curve change?
-- **Coordination** — can you reproduce the same movement?
-
-> **We are testing whether body position changes the sensation and pressure response of the same laryngeal movement.**
-
 ---
 
 ### Goal
@@ -244,8 +194,6 @@ The goal is to learn:
 ## 4. GLOTTIS — THE GATE
 
 **Duration:** 4 min
-
-
 
 The glottis controls the connection between the lungs and the upper airway.
 
@@ -334,34 +282,7 @@ Repeat:
 **open → close → open → close**
 
 Observe the jaw changes the volume of the oral space; the resulting pressure depends on the rest of the system.
-### Inverted
 
-Repeat the same exercise **head-down in the aerial yoga hammock**.
-
-Keep the movement slow and relaxed.
-
-With air in the mouth, repeat:
-
-**OPEN → CLOSE → OPEN → CLOSE**
-
-Focus on:
-
-- Does the jaw movement feel different?
-- Does the available oral space feel different?
-- Does the air feel easier or harder to control?
-- Does the movement require more or less effort?
-
-### Compare
-
-Compare **Normal vs. Inverted**:
-
-- **Sensation** — does the jaw feel different?
-- **Air space** — does the available oral volume feel different?
-- **OtoVent** — does the physical feedback change?
-- **UBA EQ Tool** — does the pressure response or curve change?
-- **Control** — can you reproduce the same movement with the same low effort?
-
-> **The goal is observation, not maximum pressure.**
 ### Key takeaway
 
 > Pressure can be created without performing a Frenzel.
@@ -371,8 +292,6 @@ Compare **Normal vs. Inverted**:
 ## 6. CHEEKS — RESERVOIR + COMPRESSION
 
 **Duration:** 4 min
-
-
 
 The cheeks can:
 
@@ -398,14 +317,6 @@ Practice:
 
 Observe the pressure curve.
 
-### Inverted
-
-Repeat the same cheek loading and compression without increasing effort.
-
-### Compare
-
-Does the air feel easier/harder to control?
-
 ### Key takeaway
 
 > The cheeks can act both as an air reservoir and as a mechanism for reducing air volume.
@@ -418,9 +329,7 @@ This will become particularly important when introducing **Mouthfill**.
 
 **Duration:** 6 min
 
-
-
-Do **not** start by defining the tongue simply as "the piston." The tongue can create a seal and can also contribute to changing the volume of the isolated air space.
+The tongue can create a seal and can also contribute to changing the volume of the isolated air space.
 
 First introduce its ability to create a **seal / lock**.
 
@@ -528,6 +437,7 @@ Compare **Normal vs. Inverted**:
 - **Control** — can you reproduce the same movement with the same low effort?
 
 > **The goal is not to produce maximum pressure. The goal is to observe whether body position changes the sensation and control of the tongue seal.**
+
 ### Key concept
 
 > The tongue can isolate a small working air volume.
@@ -618,238 +528,99 @@ Compare **Normal vs. Inverted**:
 
 ---
 
-## 9. THE WORKING CHAMBER
+## 9. COMPLETE FRENZEL — THE WORKING CHAMBER
 
-**Duration:** 5 min
+**Duration:** 12–15 min
 
+### Goal
 
+Bring the individual mechanisms together into one coordinated Frenzel technique.
 
-The **working chamber is not a separate anatomical cavity**.
-
-It is a **small, dynamically isolated volume of air** created by ??? the position ??? and seal of the tongue and surrounding structures.
+The objective is to understand how the working air volume is isolated, compressed and used to equalize the ears.
 
 ### Basic model
 
-RESERVOIR
+| AIR<br> →<br> ISOLATION<br> →<br> WORKING CHAMBER<br> →<br> LARYNX COMPRESSION<br> →<br> EUSTACHIAN TUBES<br> →<br> EQUALIZATION | ![Complete Frenzel - The Working Chamber](./complete-frenzel-the-working-chamber.png) |
+|-|-|
 
-↓
 
-ISOLATION / SEAL
 
-↓
+### Step 1 — Establish the Working Chamber
 
-SMALL WORKING AIR VOLUME
+The **working chamber is not a separate anatomical cavity**.
 
-↓
+It is a small, functionally isolated volume of air created by the configuration of the upper airway and the tongue.
 
-VOLUME ↓
+Review the roles of the main structures:
 
-↓
+- **Glottis** — isolates the working air volume from the lungs.
+- **Tongue** — creates a seal and reduces the volume of the isolated air space.
+- **Soft palate** — helps control the configuration of the upper airway.
+- **Nasal cavity** — contains the openings of the Eustachian tubes.
 
-PRESSURE ↑
+### Step 2 — Perform the Complete Frenzel
+
+The instructor demonstrates the complete sequence slowly.
+
+Participants practise:
+
+1. Establish the intended upper-airway configuration.
+2. Isolate the working air volume from the lungs.
+3. Use a controlled tongue movement to reduce the working volume and increase pressure.
+4. Observe whether the attempt produces the intended equalization response.
+5. Relax and reset before repeating.
+
+Keep the movement controlled and low-effort. Do not push from the chest or abdomen to obtain a larger pressure response.
 
 ### OtoVent
 
-Practice:
+Where appropriate, perform a small number of gentle attempts with the OtoVent.
 
-**reservoir → tongue seal → compress → OtoVent**
+Observe the available tactile or airflow feedback.
 
 ### UBA EQ Tool
+
+Perform a small number of attempts and observe:
+
+- pressure response;
+- curve shape and timing;
+- repeatability;
+- effort required.
+
+Do not use maximum pressure as the performance goal.
+
+### Step 3 — Observe and Verify
+
+Distinguish between the following observations:
+
+- **Pressure generated** — the device registers a pressure response.
+- **Technique coordinated** — the participant can reproduce the intended movement with similar, low effort.
+- **Equalization perceived** — the participant reports an ear sensation consistent with equalization.
+
+These observations are not interchangeable. A pressure reading from the UBA EQ Tool or feedback from the OtoVent does not, by itself, confirm that the middle ears have equalized.
+
+### Compare — Normal vs. Inverted
+
+If safe and comfortable, repeat the same gentle exercise in the normal seated position and head-down in the aerial yoga hammock.
 
 Compare:
 
-- working with a larger air volume
-- working with a smaller isolated volume
+- ability to maintain the working chamber;
+- tongue coordination;
+- pressure response;
+- repeatability and effort.
 
-Observe:
+The objective is to observe differences, not to assume that inversion improves the technique.
 
-> How small an air volume can we control, and how repeatably can we create pressure from it?
+### Key takeaway
 
-### Inverted
+> The working chamber provides the isolated air volume used in Frenzel. Controlled tongue movement reduces that volume and increases pressure. Successful equalization must be assessed separately from the pressure reading.
 
-Repeat the same exercise **head-down in the aerial yoga hammock**.
+### Transition to Part 2
 
-Keep the movement small and controlled.
+Part 1 has introduced the components and brought them together in a basic dry Frenzel attempt.
 
-Practice:
-
-**reservoir → tongue seal → compress → OtoVent**
-
-Focus on:
-
-- Can you still clearly isolate the working air volume?
-- Does the working chamber feel different?
-- Is it easier or harder to control the small air volume?
-- Does the compression require more or less effort?
-
-### OtoVent
-
-Repeat the same exercise with the OtoVent.
-
-Observe whether the physical feedback changes compared with the normal position.
-
-### UBA EQ Tool
-
-Repeat the same exercise and compare the pressure response with the normal position.
-
-Observe:
-
-- pressure peak
-- curve shape
-- repeatability
-- how easily pressure can be created from the small isolated volume
-
-### Compare
-
-Compare **Normal vs. Inverted**:
-
-- **Working chamber** — does the isolated air volume feel different?
-- **Sensation** — does the tongue seal feel different?
-- **OtoVent** — does the physical feedback change?
-- **UBA EQ Tool** — does the pressure response or curve change?
-- **Control** — can you create the same pressure with the same low effort?
-
-> **The goal is not to create more pressure. The goal is to observe whether body position changes the sensation and control of a small isolated air volume.**
-
-This concept will become important later when introducing **Advanced Frenzel**.
-
----
-
-## 10. PUT THE SYSTEM TOGETHER
-
-**Duration:** 5 min
-
-Now combine the different mechanisms.
-
-### A — CHEEKS
-
-**air → cheeks → compression → OtoVent**
-
-What changes is **volume**.
-
-### B — JAW + CHEEKS
-
-**air → jaw + cheeks → compression → OtoVent**
-
-What changes is **volume**.
-
-### C — TONGUE
-
-**air → tongue seal → compression → OtoVent**
-
-What changes is **seal + volume**.
-
-### D — LARYNX
-
-**air → laryngeal movement → pressure response**
-
-What changes is **volume / pressure configuration**.
-
-### UBA EQ Tool — Normal
-
-Repeat the same four experiments with the **UBA EQ Tool**.
-
-Observe:
-
-- pressure response
-- curve shape
-- repeatability
-- effort required
-
-### Question for the group
-
-> We created pressure in all four cases.  
-> Did we use the same mechanism?
-
-**No.**
-
-The pressure may be similar in its effect, but the mechanism used to create it can be different.
-
----
-
-### Inverted
-
-Repeat the same four experiments **head-down in the aerial yoga hammock**.
-
-Keep the movements small, controlled and relaxed.
-
-### A — CHEEKS
-
-**air → cheeks → compression → OtoVent**
-
-Focus on:
-
-- Does the cheek compression feel different?
-- Is the air easier or harder to control?
-
-### B — JAW + CHEEKS
-
-**air → jaw + cheeks → compression → OtoVent**
-
-Focus on:
-
-- Does changing the jaw position feel different?
-- Does the available oral volume feel different?
-
-### C — TONGUE
-
-**air → tongue seal → compression → OtoVent**
-
-Focus on:
-
-- Is the tongue seal easier or harder to perceive?
-- Does the isolated air volume feel different?
-
-### D — LARYNX
-
-**air → laryngeal movement → pressure response**
-
-Focus on:
-
-- Does the laryngeal movement feel different?
-- Does the pressure response feel different?
-
-### OtoVent — Inverted
-
-Repeat the same four experiments with the **OtoVent**.
-
-Observe:
-
-- physical / tactile feedback
-- air movement
-- ease of control
-
-### UBA EQ Tool — Inverted
-
-Repeat the same four experiments with the **UBA EQ Tool**.
-
-Observe:
-
-- pressure response
-- curve shape
-- repeatability
-- effort required
-
-### Compare
-
-Compare **Normal vs. Inverted** across all four mechanisms:
-
-| Mechanism | What to compare |
-|---|---|
-| **Cheeks** | air storage, compression, control |
-| **Jaw + cheeks** | available oral volume, compression |
-| **Tongue** | seal, isolated air volume |
-| **Larynx** | movement, volume / pressure response |
-
-Ask the group:
-
-> **Did the mechanism change when we inverted?**
-
-Then:
-
-> **Did the sensation, air movement, pressure response or control change?**
-
-The purpose is not to produce more pressure, but to observe whether **body position changes how the same mechanism is performed and perceived**.
+Part 2 develops the technique further through T-Lock, T/Ca/H, Frenzel and Advanced Frenzel, before progressing to Mouthfill and Sequential Frenzel.
 
 ---
 
@@ -872,48 +643,52 @@ At the end of Part 1, the students should be able to distinguish six different j
 
 ### Final model
 
-**AIR**
+**1. AIR SUPPLY**  
+Lungs provide the air.
 
 ↓
 
-**STORE**
+**2. ISOLATION**  
+The glottis closes to isolate the working air volume from the lungs.
 
 ↓
 
-**ISOLATE**
+**3. WORKING CHAMBER**  
+The upper-airway configuration, including the tongue and soft palate, establishes the working air space.
 
 ↓
 
-**MOVE / CHANGE VOLUME**
+**4. LARYNGEAL COMPRESSION**  
+Controlled upward movement of the larynx reduces the working volume and increases pressure.
 
 ↓
 
-**PRESSURE**
+**5. PRESSURE AT THE EUSTACHIAN TUBE OPENINGS**  
+The increased pressure acts on the openings of the Eustachian tubes.
 
 ↓
 
-**NASAL CAVITY**
+**6. EQUALIZATION**  
+When the tubes open, air can enter the middle ears and help equalize pressure.
 
-↓
+**Key principle:**
 
-**EUSTACHIAN TUBE**
-
-↓
-
-**EQUALIZATION**
+The glottis isolates. The tongue helps seal. The larynx changes the working volume. Pressure response and successful ear equalization are not the same thing.
 
 ---
 
 ## TRANSITION TO PART 2
 
-### PART 1
+### PART 1 — DRY EQ
 
-> **What can the EQ system do?**
+> **How does the EQ system work?**
 
-### PART 2
+Part 1 introduced the structures and mechanisms involved in equalization and brought them together in a complete dry Frenzel attempt.
 
-> **How do we use this system to equalize?**
+### PART 2 — IN-WATER EQ: 0–10 M
 
-Part 2 will introduce:
+> **How do we apply equalization in the water?**
 
-**Pressure → Working Chamber → T-Lock → T/Ca/H → Frenzel → Advanced Frenzel → Mouthfill → Sequential Frenzel**
+Part 2 focuses entirely on in-water equalization, progressing from **0 to 10 metres**.
+
+The focus is on applying the technique underwater, observing the equalization response, and developing control throughout the descent.
