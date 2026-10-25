@@ -1,6 +1,6 @@
 # PART 1 — THE AIR & THE EQ SYSTEM
 
-**Duration:** ~45–50 min
+**Duration:** ~50 min
 
 ## Methodology
 
@@ -251,7 +251,7 @@ For techniques where we need to work with a limited air volume:
 
 ## 5. JAW — CHANGE THE VOLUME
 
-**Duration:** 4 min
+**Duration:** 2 min
 
 The jaw changes the available space inside the oral cavity.
 
@@ -291,7 +291,7 @@ Observe the jaw changes the volume of the oral space; the resulting pressure dep
 
 ## 6. CHEEKS — RESERVOIR + COMPRESSION
 
-**Duration:** 4 min
+**Duration:** 2 min
 
 The cheeks can:
 
@@ -448,7 +448,7 @@ Compare **Normal vs. Inverted**:
 
 **Duration:** 4 min
 
-Creating pressure is only part of equalization.
+Creating pressure is not only part of equalization.
 
 The air also needs to be directed toward the nasal cavity.
 
