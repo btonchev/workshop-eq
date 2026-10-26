@@ -1,4 +1,4 @@
-# Part 2 — Water Practice
+# Part 2 — Water Practice --- Advanced Equalization
 
 **Duration:** ~60–75 min
 

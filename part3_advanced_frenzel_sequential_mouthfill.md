@@ -1,4 +1,4 @@
-# Part 2 — Advanced Frenzel, Sequential Frenzel & Mouthfill
+# Advanced Frenzel, Sequential Frenzel & Mouthfill
 
 **Duration:** ~75–90 min
 
